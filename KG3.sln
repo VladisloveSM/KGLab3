@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KG3", "KG3\KG3.csproj", "{E4D0CB34-274A-41A8-9FEA-3949DDC24186}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageWrapper", "ImageWrapper\ImageWrapper.csproj", "{6FFAC9D1-6252-4B04-8537-C6BC62679134}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{57909673-0282-417A-AD5E-4EA94B2838EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4D0CB34-274A-41A8-9FEA-3949DDC24186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D0CB34-274A-41A8-9FEA-3949DDC24186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4D0CB34-274A-41A8-9FEA-3949DDC24186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4D0CB34-274A-41A8-9FEA-3949DDC24186}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FFAC9D1-6252-4B04-8537-C6BC62679134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FFAC9D1-6252-4B04-8537-C6BC62679134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FFAC9D1-6252-4B04-8537-C6BC62679134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FFAC9D1-6252-4B04-8537-C6BC62679134}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57909673-0282-417A-AD5E-4EA94B2838EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57909673-0282-417A-AD5E-4EA94B2838EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57909673-0282-417A-AD5E-4EA94B2838EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57909673-0282-417A-AD5E-4EA94B2838EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9B94858-EB23-4091-B7B3-96F1D342D2B3}
+	EndGlobalSection
+EndGlobal

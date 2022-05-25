@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uXyJQnTSi02n/TGZxdSWfP4mMu2L9UTgbcyqVJMyRzagpt7Jq8DTfjHJM8e7amNlYc9EalmnL9RSHaDY4Bt8Tw==",
+  "success": true,
+  "projectFilePath": "d:\\Program\\CS\\KG3\\ImageWrapper\\ImageWrapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrey\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Andrey\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

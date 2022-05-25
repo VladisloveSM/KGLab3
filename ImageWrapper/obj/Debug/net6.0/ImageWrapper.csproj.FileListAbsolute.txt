@@ -1,0 +1,12 @@
+d:\Program\CS\KG3\ImageWrapper\bin\Debug\net6.0\ImageWrapper.deps.json
+d:\Program\CS\KG3\ImageWrapper\bin\Debug\net6.0\ImageWrapper.dll
+d:\Program\CS\KG3\ImageWrapper\bin\Debug\net6.0\ref\ImageWrapper.dll
+d:\Program\CS\KG3\ImageWrapper\bin\Debug\net6.0\ImageWrapper.pdb
+d:\Program\CS\KG3\ImageWrapper\obj\Debug\net6.0\ImageWrapper.csproj.AssemblyReference.cache
+d:\Program\CS\KG3\ImageWrapper\obj\Debug\net6.0\ImageWrapper.GeneratedMSBuildEditorConfig.editorconfig
+d:\Program\CS\KG3\ImageWrapper\obj\Debug\net6.0\ImageWrapper.AssemblyInfoInputs.cache
+d:\Program\CS\KG3\ImageWrapper\obj\Debug\net6.0\ImageWrapper.AssemblyInfo.cs
+d:\Program\CS\KG3\ImageWrapper\obj\Debug\net6.0\ImageWrapper.csproj.CoreCompileInputs.cache
+d:\Program\CS\KG3\ImageWrapper\obj\Debug\net6.0\ImageWrapper.dll
+d:\Program\CS\KG3\ImageWrapper\obj\Debug\net6.0\ref\ImageWrapper.dll
+d:\Program\CS\KG3\ImageWrapper\obj\Debug\net6.0\ImageWrapper.pdb
